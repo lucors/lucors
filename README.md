@@ -7,10 +7,11 @@
 ![JS](https://img.shields.io/badge/JavaScript-514ce6?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-514ce6?style=flat-square)
 
+<!--
 Планы на изучение <br>
 ![C++](https://img.shields.io/badge/C++-red?style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-red?style=flat-square)
-
+-->
 Посетите мой веб-сайт [lucors.ru](https://lucors.ru)
 
 <!--
